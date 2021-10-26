@@ -24,6 +24,9 @@ In my current course, Telling Stories with Data, I hope to learn how to be a goo
 Here's a test visualization:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7642585"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Here's a test link to a new page:
+[Link to page 2](page2.md)
+
 ## Critique by Design - Coming Soon!
 
 ## Choosing Chart Types - Coming Soon!
