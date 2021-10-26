@@ -21,6 +21,9 @@ In my current course, Telling Stories with Data, I hope to learn how to be a goo
 
 # Portfolio
 
+Here's a test visualization:
+<div class="flourish-embed flourish-chart" data-src="visualisation/7642585"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Critique by Design - Coming Soon!
 
 ## Choosing Chart Types - Coming Soon!
