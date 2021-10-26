@@ -16,7 +16,7 @@ As a homeowner, my goal is to finish renovating my kitchen by Christmas.
 As a surfer, my goal is to find the best waves, even in a land-locked state.
 
 ## What I hope to learn 
-In my current course, Telling Stories with Data, I hope to learn how to be a good partner to the data engineers I work with in the future. As I metnioned in my bio above, my husband is in the MCDS program at CMU. In our jobs upon graduation, we will be a "data science team" that works together to develop solutions for the Army. I'm already beginning to see how this class will provide our team with the tools to communicate technical concepts to non-technical audiences. I hope to learn how to give decision makers in the Army the tools necessary to make the best decisions based in data.
+In my current course, Telling Stories with Data, I hope to learn how to be a good partner to the data engineers I work with in the future. As I mentioned in my bio above, my husband is in the MCDS program at CMU. In our jobs upon graduation, we will be a "data science team" that works together to develop solutions for the Army. I'm already beginning to see how this class will provide our team with the tools to communicate technical concepts to non-technical audiences. I hope to give decision makers in the Army the tools necessary to make the best decisions based in data.
 
 
 # Portfolio
