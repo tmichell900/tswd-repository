@@ -1,14 +1,18 @@
 # tswd-repository
-My portfolio for data visualizations
+My portfolio for data visualizations.
 
 # About me
 
 ### Passionate About People.  Life-Long Learner.  Data Scientist.
 
 I'm a second year Master student in the Information Systems Management - Business Intelligence & Data Analytics Program (MISM-BIDA) at Carnegie Mellon University (CMU).
+
 As an Army officer, my professional goal is to develop data science in the Army. 
+
 As a partner/wife to a Master of Computational Data Science, my goal is to develop the skills necessary to bring our data science acumen as a team to the next level.
+
 As a homeowner, my goal is to finish renovating my kitchen by Christmas.
+
 As a surfer, my goal is to find the best waves, even in a land-locked state.
 
 ## What I hope to learn 
