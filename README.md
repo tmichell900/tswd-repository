@@ -27,6 +27,9 @@ Here's a test visualization:
 Here's a test link to a new page:
 [Link to page 2](page2.md)
 
+Here's a class exercise I did on visualizing government debt:
+[Link to government debt](government_debt.md)
+
 ## Critique by Design - Coming Soon!
 
 ## Choosing Chart Types - Coming Soon!
