@@ -9,6 +9,17 @@ The original data visualization that inspired this project comes from Angi's "Ec
 
 Source: [Angi's Economy of Everything Report](https://www.angi.com/research/reports/market/)
 
+Based on the visualization and the method of critique established by Stephen Few, I rated the visualization according to 7 metrics as shown below:
+
+<img src="https://user-images.githubusercontent.com/79218366/140968961-ec538903-48ff-47f9-9235-8bfaf8a59b17.png" style = "width:800px;"/>
+
+The things about the visualization I would keep is the use of size and color. The visualization allows you to make snap judgements about the states that are highlighted such as the highest home values come from DC, California, and Hawaii. Older homes are concentrated on the East coast which is easy to tell because of both the colors and the positioning on the graph.
+
+A few things that didn't work well are the use of red and green (not condusive to the color blind), the repetition of variables (home age is represnted on the x-axis as well as color), and the inclusion of Washington D.C. in the data. Although it is a state, it is a concentrated, urban area that will naturally have a higher rental rate than states with rural and urban areas. Therefore, I don't think the visualization benefits from including it. 
+
+One of the main things I would change is the placement of variables. By putting home age on the x-axis and home ownership rate on the y-axis, the reader will want to draw correlations between the two (for example, as home age increases, home ownership rate decreases). However, this is not a meaningful statistic or relationship for people looking to buy a home. Therefore, the main areas of the visualization to change is the placement of variables to make it more perceptible to the reader, cleaning up the labeling and aesthetics to allow the reader to more easily draw conclusions, and only including relevant data that people would need to know when looking to buy or renovate a home in a particular area to increase the completeness of the visualization. 
+
+
 ## Sketches and Brainstorming
 
 This is the first sketch: 
