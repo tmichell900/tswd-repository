@@ -28,40 +28,43 @@ In terms of re-design, although I thought the bubble chart was effective at comm
 
 I chose to start with Figma for the sketches to try and capture multiple variables, colors, and techniques. To start, I did a bubble chart similar to the original visualization. Instead of home ownership rate, I incorporated the average cost per improvement project in order to target an audience looking to buy or renovate a home. I chose not to change the changes in bubble size corresponding to home value, and the color was changed to represent home ownership rate (to still include the information). The data from this and the second sketch comes from [House Method,](https://housemethod.com/home-warranty/median-home-age-us/) [iPropertyManagement, ](https://ipropertymanagement.com/research/homeownership-rate-by-state) [Experian, ](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) and [ProRemodeler](https://www.proremodeler.com/improvement-spending-state) (3, 4, 5, 6).
 
-** State Level Bubble Wireframe **
+**State Level Bubble Wireframe**
 
 <img src="https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png" style = "width:800px;"/>
 
 The second sketch tries to take similar data and overlay it on a map of the United States. This particular sketch doesn't incorporate cost per improvement process, and just shows the three variables shown in the original visualization. 
 
-** State Level Map Wireframe **
+**State Level Map Wireframe**
 
 <img src="https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png" style = "width:800px;"/>
 
 After soliciting some initial feedback from my husband, his first impression is that the audience is too much of a niche population (typically people looking at real estate data at a national level are transient populations or large real estate investors). Therefore, to narrow the population down to people trying to buy or renovate a house in the Pittsburgh area, I incorporated a third sketch. The data for this sketch comes from [Western Pennsylvania Regional Data Center](https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary) (7). For this sketch, I wanted to focus on building a relationship between the variables, so I show in the sketch the correlation between the 5-year % increase of home values versus the current median home value. 
 
-** Local Pittsburgh Wireframe **
+**Local Pittsburgh Wireframe**
 
 <img width="800" alt="IMG_4598" src="https://user-images.githubusercontent.com/79218366/140959500-d72ec72c-4015-4c66-9fce-3fffa5d601e8.png">
 
 
 ## Soliciting Feedback
 
-I got feedback on the wireframes from my husband, my parents, and my friend (Kate Maffey, a veteran of TSWD). 
+I got feedback on the wireframes from my husband, my parents, and my friend (Kate, a veteran of TSWD). 
 
 Here's what they had to say about the sketches ...
 
-** State Level Bubble Wireframe **
+**State Level Bubble Wireframe**
 * insert feedback here
 * insert feedback here
 
-** State Level Map Wireframe **
+**State Level Map Wireframe**
 * insert feedback here
 * insert feedback here
 
-** Local Pittsburgh Wireframe **
+**Local Pittsburgh Wireframe**
 * insert feedback here
 * insert feedback here
+
+This led to the following changes to my wireframes as I was building the final design:
+* insert change here
 
 ## Final Visualizations
 
