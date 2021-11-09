@@ -7,6 +7,7 @@ The original data visualization that inspired this project comes from Angi's "Ec
 
 ![image](https://user-images.githubusercontent.com/79218366/140960534-88bdb79b-2d49-4058-8bf8-6eae88882c8f.png =300x300)
 
+<img src="https://user-images.githubusercontent.com/79218366/140960534-88bdb79b-2d49-4058-8bf8-6eae88882c8f.png" style = "width:400px;"/>
 
 ## Sketches and Brainstorming
 
@@ -21,6 +22,8 @@ This is the second sketch:
 
 
 ![image](https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png)
+
+<img src="https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png" style = "width:400px;"/>
 
 And this is a third sketch with information specific to Pittsburgh:
 
