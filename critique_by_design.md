@@ -7,6 +7,8 @@ The original data visualization that inspired this project comes from Angi's "Ec
 
 <img src="https://user-images.githubusercontent.com/79218366/140960534-88bdb79b-2d49-4058-8bf8-6eae88882c8f.png" style = "width:800px;"/>
 
+Source: [Angi's Economy of Everything Report](https://www.angi.com/research/reports/market/)
+
 ## Sketches and Brainstorming
 
 This is the first sketch: 
