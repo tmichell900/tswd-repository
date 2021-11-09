@@ -14,6 +14,10 @@
 
 ## Soliciting Feedback
 
+I got feedback from my husband, my parents, and my friend (Kate Maffey, a veteran of TSWD). 
+
+Here's what they had to say about the sketches ...
+
 ## Final Visualizations
 
 To start, I wanted to experiment with a way to summarize the data with a comparison to states' locations geographically. To reduce the amount of data on the graph and to prime the reader for the visualizations that follow, I opted to just show median housing prices around the country. This allows the reader to draw comparisons within and between regions before adding complexities such as home age and home improvement costs.
