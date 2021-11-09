@@ -80,12 +80,22 @@ Below is the visualization for the Pittsburgh area:
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7774462"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Future Applications / Work
+
+Due to a substantial amount of time to pull and process data from multiple sources, I didn't get to incorporate a time aspect to any of the visualizations or data sets. However, I think this would be interesting and a peice of data about homes that potential buyers would find interesting. For example, 
 
 *References:*
+
 (1) Few, Stephen. "Data Visualization Effectiveness Profile." March 2017.
+
 (2) "The Economy of Everything Home." *Angi*. 2021.
+
 (3) Cusick, David. "The Median Age of Homes in the United States by Build Year." *House Method.* July 18, 2020. 
+
 (4) "Homeownership Rate by State." *iPropertyManagement.* 
+
 (5) Stolba, Stefan Lombo. "Median Home Values by State." *Experian.* November 18, 2019. 
+
 (6) McClister, James. "Improvement Spending by State." *ProRemodeler.* July 2, 2019. 
+
 (7) "City of Pittsburgh Permit Summary." *Western Pennsylvania Regional Data Center.* Sepetember 2021.
