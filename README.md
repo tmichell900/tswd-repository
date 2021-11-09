@@ -34,7 +34,7 @@ Here's a class exercise I did on visualizing government debt:
 
 During this exercise, we were asked to find a publicly available visualization. During our home renovations, my husband and I have used Houzz and Angi extensively for inspiration and resources. Both websites collect home renovation data on their users on a regular basis, so their reports include some interesting visualizations. To find out more about the visualization, critique, and redesign process, visit the website below!
 
-[Link to Critique by Desing](critique_by_design.md)
+[Link to Critique by Design](critique_by_design.md)
 
 
 ## Choosing Chart Types - Coming Soon!
