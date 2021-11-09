@@ -12,12 +12,19 @@ The original data visualization that inspired this project comes from Angi's "Ec
 
 This is the first sketch: 
 
-![image](https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png =300x300)
+
+![image](https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png)
+
+<img src="https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png" style = "width:400px;"/>
 
 This is the second sketch: 
-![image](https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png =300x300)
+
+
+![image](https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png)
 
 And this is a third sketch with information specific to Pittsburgh:
+
+
 <img width="300" alt="IMG_4598" src="https://user-images.githubusercontent.com/79218366/140959500-d72ec72c-4015-4c66-9fce-3fffa5d601e8.png">
 
 
