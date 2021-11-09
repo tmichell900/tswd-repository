@@ -3,13 +3,22 @@
 
 ## Inspirational Visualization and Critique
 
+The original data visualization that inspired this project comes from Angi's "Economy of Everything Home" Report. Each year, Angi interviews its customers about home improvements done that year to get a picture of the home renovation trends for that year. The visualization below caught my attention because of the large amounts of data it is communicating for each state in a single visualization:
+
+![image](https://user-images.githubusercontent.com/79218366/140960534-88bdb79b-2d49-4058-8bf8-6eae88882c8f.png | width=250)
+
+
 ## Sketches and Brainstorming
 
-![image](https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png)
+This is the first sketch: 
 
-![image](https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png)
+![image](https://user-images.githubusercontent.com/79218366/140959353-9ad08001-52c1-4121-adb9-e04f7d0909ab.png | width=250)
 
-<img width="1019" alt="IMG_4598" src="https://user-images.githubusercontent.com/79218366/140959500-d72ec72c-4015-4c66-9fce-3fffa5d601e8.png">
+This is the second sketch: 
+![image](https://user-images.githubusercontent.com/79218366/140959430-00dd4f13-539c-4adc-bcc2-f7b770313f97.png | width=250)
+
+And this is a third sketch with information specific to Pittsburgh:
+<img width="250" alt="IMG_4598" src="https://user-images.githubusercontent.com/79218366/140959500-d72ec72c-4015-4c66-9fce-3fffa5d601e8.png">
 
 
 ## Soliciting Feedback
