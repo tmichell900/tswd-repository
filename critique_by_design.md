@@ -52,19 +52,28 @@ I got feedback on the wireframes from my husband, my parents, and my friend (Kat
 Here's what they had to say about the sketches ...
 
 **State Level Bubble Wireframe**
-* insert feedback here
-* insert feedback here
+* Percent home ownership doesn't make sense to be included as a variable because it doesn't seem to relate to the other variables
+* At the national level, it's hard to know who the audience is
+* It's not immediately clear what the graph is trying to communicate
 
 **State Level Map Wireframe**
-* insert feedback here
-* insert feedback here
+* It's easy to identify clusters by region
+* It's easy to quickly identify the three variables you're comparing
+* Using color for age doesn't make intuitive sense as age is not something people see as bad or good (typically the reason for using a color scale is to indicate good / bad ends of a spectrum). 
 
 **Local Pittsburgh Wireframe**
-* insert feedback here
-* insert feedback here
+* Make more explicit labels; the average person may not know what the % increase over 5 years for a house really means
+* It's easily identifiable that the audience is someone looking to buy a home in pittsburgh
+* You should incorporate a well-defined "buy, sell, or renovate" label to give the reader an explicit take-away
+* Although this graph is easier to interpret quickly than the other ones, the national data helps to provide context, so don't get rid of it completely.
 
-This led to the following changes to my wireframes as I was building the final design:
-* insert change here
+Overall, my parents were more likely to understand the intended purposes and audiences for the sketches, which I attributed to more experience with home buying and the real estate market. However, my mom was thrown off by the use of binary colors in the sketches when I listed in the label that it would be a color degradation. The granularity of the Pittsburgh sketch seemed to be the easiest to understand, but certain variables such as home value and home age were important in the other sketches in establishing context.
+
+These factors led to the following changes to my wireframes as I was building the final design:
+
+* I was deliberate with the color choice in the final visualizations; that is typically what the people I interviewed noticed first.
+* I kept all three visualizations to establish context, but I tried to make the national level visualizations simpler. The popouts on the Pittsburgh visualization give the highest level of detail.
+* I was deliberate for the bubble charts which variables went on the x and y axes, because these are the variables the readers will draw conclusions between first (for example, as x increases, does y increase or decrease?). 
 
 ## Final Visualizations
 
@@ -72,17 +81,23 @@ To start, I wanted to experiment with a way to summarize the data with a compari
 
 <div class="flourish-embed flourish-map" data-src="visualisation/7777152"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Below is the recreated visualization of the original. I opted to simplify the variables, and show more of the natural relationship between home age and average improvement project cost in that state.
+Below is the recreated visualization of the original. I opted to simplify the variables, and show more of the natural relationship between home age and average improvement project cost in that state. The size of the bubbles is sometimes to difficult to interpret, so each of the bubbles is the same size. In order to keep home ownership rate as part of the graph, a popout appears when you scroll over a bubble that gives all of the information shown by the original visualization.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7774805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Below is the visualization for the Pittsburgh area:
+Finally, I did a visualization showing home data in the city of Pittsburgh. For this chart, I only used zip codes that had information available on permits pulled during the first six months of 2021. The chart invites readers to explore (within each Pittsburgh zip code), is it better to buy, sell, or renovate? These different alternatives are decided by looking at the median home value, the 5-year value change of the home, the number of rennovation permits pulled and the median age of the house.  
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7774462"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Each visualization created serves a different purpose, varying in degrees of specificity and local applicability. The final visualization provides a specific audience a clear call to action or decision to make as opposed to the original visualization from Angi's report. 
+
 ## Future Applications / Work
 
-Due to a substantial amount of time to pull and process data from multiple sources, I didn't get to incorporate a time aspect to any of the visualizations or data sets. However, I think this would be interesting and a peice of data about homes that potential buyers would find interesting. For example, 
+Due to a substantial amount of time to pull and process data from multiple sources, I didn't get to incorporate a time aspect to any of the visualizations or data sets. However, I think this would be interesting and a peice of data about homes that potential buyers would find interesting. For example, as time passes, how does the median home values change across states? How has the median home value between zip codes in Pittsburgh changed over time as well?
+
+Additionally, I think these visualizations only scratch the surface at communicating data about real estate and home improvements. Future visualizations could help homeowners to better make decisions about how and what to renovate using historical data.
+
+
 
 *References:*
 
