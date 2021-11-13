@@ -20,12 +20,16 @@ The project will be broken down into the following sections:
 
 ## The Data
 
-The data for the project will come from four main sources, covering National / Pittsburgh as well as real estate / renovation values as shown in the table below:
+The data for the project will come from four main sources, as shown in the table below:
 
 | Topic | National Level | Pittsburgh |
 | ----- | ---------- | ---------- |
 | Home Prices | Experien: [Median Home Value by State](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) | Western PA Regional Data Center: [Allegheny County Property Sale Transactions](https://data.wprdc.org/dataset/real-estate-sales) |
 | Renovation Prices | Pro Remodeler: [Improvement Spending By State](https://www.proremodeler.com/improvement-spending-state) | Western PA Regional Data Center: [City of Pittsburgh Permit Summary](https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary) |
 
+The data from the states was copied directly from the sources, and required little pre-processing. The data from Western Pennsylvania Regional Data Center, however, needed a fair amount of processing to turn it into two, separate, usable CSV files, which can be accessed below:
+* 
+
 ## Method & Medium
-Start big and move small: this is the general idea / story of the project. 
+### *Start big; go small*
+
