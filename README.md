@@ -39,4 +39,7 @@ During this exercise, we were asked to find a publicly available visualization. 
 
 ## Choosing Chart Types - Coming Soon!
 
-## The Data Behind Home Renovations (Final Project) - Coming Soon!
+## The Data Behind Home Renovations (Final Project)
+Check out my final project on how to buy and renovate a house in Pittsburgh!
+
+[A Guide to Home-Buying](final_project_TayMichell.md)
