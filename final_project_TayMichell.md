@@ -1,15 +1,17 @@
 # Navigating the Housing Market in Pittsburgh
 
-Over the next few years, the Artificial Intelligence Integration Center (AI2C) in Pittsburgh will grow from employing 40 Army personnel to 400+.
+
 As Pittsburgh increases in popularity as an AI hub for many corporations, recently graduated students may increasingly look at staying in Pittsburgh long-term.
-While renting is typically the first choice of young professionals (particularly in a seller's market), there are significant financial and psychological benefits to having ahome that is your own.
+Over the next few years, the Artificial Intelligence Integration Center (AI2C) in Pittsburgh will grow from employing 40 Army personnel to 400+.
+While renting is typically the first choice of young professionals (particularly in a seller's market), there are significant financial and psychological benefits to investing in a home.
 The following overview establishes a data-driven look at the real estate market in Pittsburgh, and what you need to know before investing in a home. 
 
 ## Outline
 *Summary:*
-When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. The goal of this project is two-fold: inform about the current real estate trends in Pittsburgh and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates.
+When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. Based on what we've learned, the goal of this project is two-fold: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2).
 
 The project will be broken down into the following sections:
+* Introduction
 * National Real Estate
 * National Renovations
 * Pittsburgh Real Estate
@@ -18,9 +20,25 @@ The project will be broken down into the following sections:
 
 Each of the sections are further explained in the Initial Sketches section below.
 
+
+
 ## Initial Sketches
 
-#### OVERVIEW
+#### OUTLINE
+Many of the sketches are re-used visualizations from Homework 3, as the topic has remained constant with some tweaks and a more focused scope. 
+
+*General Progression from the Reader's Perspective*
+This is the first sketch from the in-class exercise. The 
+
+#### INTRODUCTION
+
+During the introduction, pictures of the house my husband and I bought will be included. Based on what some of the example presentations from class did, I will use these pictures of the house to build the color scheme for the rest of the presentation to keep the presentation coherent design-wise (see below).
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwJ8dRAk&#x2F;view?embed">  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwJ8dRAk&#x2F;view?utm_content=DAEvwJ8dRAk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">#b5bb69</a> by Taylor Michell
+created using [Canva](https://www.canva.com/design/DAEvwJ8dRAk/GXKtJqydCdg7VmSNffjCSg/edit)
 
 #### NATIONAL REAL ESTATE
 
@@ -31,6 +49,8 @@ Each of the sections are further explained in the Initial Sketches section below
 #### PITTSBURGH RENOVATIONS
 
 #### WHAT'S NEXT?
+
+
 
 ## The Data
 
@@ -53,5 +73,8 @@ The data for Pittsburgh is more specific and meant to help the reader form an op
 This will equip the reader to make an informed decision when looking at Zillow portfolios and taking the preference quiz in the "What's Next?" Section of the Project. 
 
 ## Method & Medium
-### *Start big; go small*
 
+First and foremost, the method is tailored to the target audience. The target audience for this presentation is young professionals looking to buy a house in Pittsburgh. This makes the assumption that have some prior knowledge about the important factors in buying a home, or they have some level of interest in real estate. Based on this target audience, framing the story is critical ([How to Give A Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation)). My plan is to frame the story as a journey: my "bad luck" with home buying in Pittsburgh seems to resonate with people whenever I tell the story in a personal setting because my husband and I were unprepared to deal with the financial undertaking and occasional physical risk associated with buying an old home.
+However, our journey has resolved for the better as we've realized the benefits of smart real estate investing. Additionally, we've learned valuable skills about how to renovate a house, particularly an older Pittsburgh house. We want to share our lessons with others, and that will be the center of the story-telling method.
+
+Next, critical to the method is to draw this audience in is to start big (national scale) and go small (Pittsburgh). Pittsburgh has drawn people from all over the country (whether college students or Army officers). By including national benchmarks, potential home-buyers can compare Pittsburgh to other places they've lived. For me, coming from Hawaii, the home values in Pittsburgh are fantastic and very appealing. However, if someone is coming from Oklahoma, home values in Pittsburgh may seem completely unreasonable. Additionally, the overview at each level starts with larger, more general ideas such as average home prices in certain areas and moves to more specific, detailed ideas such as the areas of a home that (if renovated) bring in the most value. This helps to establish initial housing trends before moving into renovation strategies (a concept the reader may not be as familiar with). 
