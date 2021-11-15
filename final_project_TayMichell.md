@@ -10,9 +10,10 @@ The following overview establishes a data-driven look at the real estate market 
 *Summary:*
 When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. Based on what we've learned, the goal of this project is two-fold: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2). 
 
-|**Setup**| We bought a house as a way to invest and have a good place to live. |
-|**Conflict**| We didn't know what we were doing, and renovations taught us many lessons. |
-|**Resolution**| Here are some tools to inform your home buying / renovation journey. |
+| **Setup** | We bought a house as a way to invest and have a good place to live. |
+| ----- | ---------- |
+| **Conflict** | We didn't know what we were doing, and renovations taught us many lessons. |
+| **Resolution** | Here are some tools to inform your home buying / renovation journey. |
 
 The project will be broken down into the following sections:
 * Introduction
