@@ -42,15 +42,32 @@ created using [Canva](https://www.canva.com/design/DAEvwJ8dRAk/GXKtJqydCdg7VmSNf
 
 #### NATIONAL REAL ESTATE
 
+To capture national real estate data, I started with a map of median home prices across the states. This is a sketch that will likely be enabled for the final presentation to include a time element (which places have increased / decreased in median home price in the past few years).
+
+<div class="flourish-embed flourish-map" data-src="visualisation/7777152"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 #### NATIONAL RENOVATIONS
+
+To capture national renovation data, the following sketch will be modified to best suit the story:
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7774805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 #### PITTSBURGH REAL ESTATE
 
+Moving into Pittsburgh real estate, some kind of chloropleth map will indicate ____
+
 #### PITTSBURGH RENOVATIONS
+
+
 
 #### WHAT'S NEXT?
 
+A custom quiz at the end of the visualization will help you to determine where to go next in your home-buying journey. Answer a set of quesitons, and you will get a customized result for buying, selling, or renovating based on the amount of money you have saved, how willing you are to do renovations yourself, what your current living situation is, and what you'd like to move to.
 
+Additionally, there will be an itemized list of resources (similar to the TSWD Google Document) that you can go to if the reader knows what cateogry they fall into, and they want a list of pre-approved resources for home buying and renovating.
+[See the Draft Resource List Here](https://docs.google.com/document/d/1rAAwdC5RZCt2Uf-DvkERPCKeQnYCxSber63byo4UjUY/edit#)
 
 ## The Data
 
