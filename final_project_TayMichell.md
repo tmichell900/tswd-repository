@@ -8,11 +8,11 @@ The following overview establishes a data-driven look at the real estate market 
 
 ## Outline
 *Summary:*
-When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. Based on what we've learned, the goal of this project is two-fold: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2). 
+When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. Based on what we've learned, the goal of this project is two-fold: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2). These goals can be summarized in the Conflict Resolution table below.
 
 | **Setup** | We bought a house as a way to invest and have a good place to live. |
 | ----- | ---------- |
-| **Conflict** | We didn't know what we were doing, and renovations taught us many lessons. |
+| **Conflict** | We didn't feel like informed home buyers at the time; we've learned lessons from renovations since. |
 | **Resolution** | Here are some tools to inform your home buying / renovation journey. |
 
 The project will be broken down into the following sections:
@@ -27,12 +27,21 @@ Each of the sections are further explained in the Initial Sketches section below
 
 
 ## Initial Sketches
+Many of the sketches are re-used visualizations from Homework 3, as the topic has remained constant with some tweaks and a more focused scope. The sketches used a combination of hand drawings and 
 
 #### OUTLINE
-Many of the sketches are re-used visualizations from Homework 3, as the topic has remained constant with some tweaks and a more focused scope. 
 
 *General Progression from the Reader's Perspective*
-This is the first sketch from the in-class exercise. The 
+This is the first sketch based on the in-class exercise. 
+
+TODO: INSERT SKETCH HERE
+
+*Overall Flow*
+Based on the intended user Below is a sketch of how the reader will actually move through the project as a draft.
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEv1oxScdQ&#x2F;view?embed">  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEv1oxScdQ&#x2F;view?utm_content=DAEv1oxScdQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Home Reno Project Draft</a> by Taylor Michell
 
 #### INTRODUCTION
 
@@ -60,11 +69,19 @@ To capture national renovation data, the following sketch will be modified to be
 
 #### PITTSBURGH REAL ESTATE
 
-Moving into Pittsburgh real estate, some kind of chloropleth map will indicate ____
+Moving into Pittsburgh real estate, some kind of chloropleth map will indicate the key zip codes and median home values, similar to national data. 
+
+Below is a concept sketch:
+
+TODO: INSERT SKETCH HERE
 
 #### PITTSBURGH RENOVATIONS
 
+The [Western Pennsylvania Regional Data Center](http://www.wprdc.org/) (WPRDC) is an open-source data collection that houses renovation permitting information for the city of Pittsburgh. This will be processed into a series of visualizations that show the relationship between zip code, project type, project cost, and what this means for you if you choose to buy a home in that area. 
 
+Below is a concept sketch:
+
+TODO: INSERT SKETCH HERE
 
 #### WHAT'S NEXT?
 
@@ -82,7 +99,7 @@ The data for the project will come from four main sources, as shown in the table
 | Home Prices | Experien: [Median Home Value by State](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) | Western PA Regional Data Center: [Allegheny County Property Sale Transactions](https://data.wprdc.org/dataset/real-estate-sales) |
 | Renovation Prices | Pro Remodeler: [Improvement Spending By State](https://www.proremodeler.com/improvement-spending-state) | Western PA Regional Data Center: [City of Pittsburgh Permit Summary](https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary) |
 
-The national data was copied directly from the sources, and required little pre-processing. The data from Western Pennsylvania Regional Data Center, however, needed a fair amount of processing to turn it into two, separate, usable CSV files, which can be accessed below:
+The national data was copied directly from the sources, and required little pre-processing. The data from WPRDC, however, needed a fair amount of processing to turn it into two, separate, usable CSV files, which can be accessed below:
 
 * [Permits Issued in Allegheny County, 2020](pittsburgh_updated_permits_2020.csv)
 * [Property Sales in Pittsburgh Since 2013](property_sales_pittsburgh.csv.zip)
@@ -99,3 +116,5 @@ First and foremost, the method is tailored to the target audience. The target au
 However, our journey has resolved for the better as we've realized the benefits of smart real estate investing. Additionally, we've learned valuable skills about how to renovate a house, particularly an older Pittsburgh house. We want to share our lessons with others, and that will be the center of the story-telling method.
 
 Next, critical to the method is to draw this audience in is to start big (national scale) and go small (Pittsburgh). Pittsburgh has drawn people from all over the country (whether college students or Army officers). By including national benchmarks, potential home-buyers can compare Pittsburgh to other places they've lived. For me, coming from Hawaii, the home values in Pittsburgh are fantastic and very appealing. However, if someone is coming from Oklahoma, home values in Pittsburgh may seem completely unreasonable. Additionally, the overview at each level starts with larger, more general ideas such as average home prices in certain areas and moves to more specific, detailed ideas such as the areas of a home that (if renovated) bring in the most value. This helps to establish initial housing trends before moving into renovation strategies (a concept the reader may not be as familiar with). 
+
+Finally, the project will use Shorthand as a medium. I've seen a few example projects that use Shorthand, and I think the combination of visuals and texts will bring this particular story to life in the best way. 
