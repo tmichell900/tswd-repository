@@ -34,7 +34,7 @@ Many of the sketches are re-used visualizations from Homework 3, as the topic ha
 *General Progression from the Reader's Perspective*
 This is the first sketch based on the in-class exercise. 
 
-TODO: INSERT SKETCH HERE
+<img width="755" alt="UserStoryPicture" src="https://user-images.githubusercontent.com/79218366/141881856-0abf5575-cbc1-4add-9d65-e4136c8abb0b.png">
 
 *Overall Flow*
 Based on the intended user Below is a sketch of how the reader will actually move through the project as a draft.
@@ -73,7 +73,7 @@ Moving into Pittsburgh real estate, some kind of chloropleth map will indicate t
 
 Below is a concept sketch:
 
-TODO: INSERT SKETCH HERE
+<img width="694" alt="Screen Shot 2021-11-15 at 8 39 24 PM" src="https://user-images.githubusercontent.com/79218366/141880734-6bbb4058-34f9-4b76-bd81-749aee5b02ec.png">
 
 #### PITTSBURGH RENOVATIONS
 
@@ -81,7 +81,7 @@ The [Western Pennsylvania Regional Data Center](http://www.wprdc.org/) (WPRDC) i
 
 Below is a concept sketch:
 
-TODO: INSERT SKETCH HERE
+<img width="755" alt="Screen Shot 2021-11-15 at 8 44 25 PM" src="https://user-images.githubusercontent.com/79218366/141880749-053ca4bb-38b2-4635-9dbd-75779703de51.png">
 
 #### WHAT'S NEXT?
 
