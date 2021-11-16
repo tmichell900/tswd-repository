@@ -26,6 +26,8 @@ The project will be broken down into the following sections:
 Each of the sections are further explained in the Initial Sketches section below.
 
 
+
+
 ## Initial Sketches
 Many of the sketches are re-used visualizations from Homework 3, as the topic has remained constant with some tweaks and a more focused scope. The sketches used a combination of hand drawings and 
 
@@ -37,7 +39,9 @@ This is the first sketch based on the in-class exercise.
 <img width="755" alt="UserStoryPicture" src="https://user-images.githubusercontent.com/79218366/141881856-0abf5575-cbc1-4add-9d65-e4136c8abb0b.png">
 
 *Overall Flow*
-Based on the intended user Below is a sketch of how the reader will actually move through the project as a draft.
+
+Below is a sketch of how the reader will actually move through the project as a draft.
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEv1oxScdQ&#x2F;view?embed">  </iframe>
 </div>
@@ -90,6 +94,9 @@ A custom quiz at the end of the visualization will help you to determine where t
 Additionally, there will be an itemized list of resources (similar to the TSWD Google Document) that you can go to if the reader knows what cateogry they fall into, and they want a list of pre-approved resources for home buying and renovating.
 [See the Draft Resource List Here](https://docs.google.com/document/d/1rAAwdC5RZCt2Uf-DvkERPCKeQnYCxSber63byo4UjUY/edit#)
 
+
+
+
 ## The Data
 
 The data for the project will come from four main sources, as shown in the table below:
@@ -109,6 +116,9 @@ The national data will serve as a reference point for the reader to establish th
 The data for Pittsburgh is more specific and meant to help the reader form an opinion. Does the reader value homes that are quickly growing in value (thereby providing a better investment) or do they value homes that are perhaps more expensive, but require less work? Separating out information by zip code and neighborhood will help them to make these decisions if they're looking to buy a house. The permitting / renovation information for Pittsburgh will speak to the secondary goal of the project which is to provide a realistic look at housing problems in Pittsburgh, and what renovations of an older home really look like. 
 
 This will equip the reader to make an informed decision when looking at Zillow portfolios and taking the preference quiz in the "What's Next?" Section of the Project. 
+
+
+
 
 ## Method & Medium
 
