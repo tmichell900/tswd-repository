@@ -7,15 +7,23 @@ While renting is typically the first choice of young professionals (particularly
 The following overview establishes a data-driven look at the real estate market in Pittsburgh, and what you need to know before investing in a home. 
 
 ## Outline
-*Summary:*
-When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. Based on what we've learned, the goal of this project is two-fold: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2). These goals can be summarized in the Conflict Resolution table below.
+
+#### General Information:
+
+* Title: Navigating the Housing Market in Pittsburgh
+* Audience: Potential home buyers or home owners looking to renovate in the Pittsburgh area
+* Goals: inform about the current real estate trends in Pittsburgh (1) and give home owners and potential home buyers the tools to make informed decisions when it comes to renovations and updates (2). Below are several details about the project itself.
+* Motivations: When my husband and I first moved to Pittsburgh in June of 2020, it was difficult to know which neighborhood to live in and the nuances of home buying in the area. We've learned a lot of lessons as both young homeowners and as home renovators trying to save money. As we see our friends and colleagues look more seriously at staying in Pittsburgh long-term, we wanted to provide a "lessons learned" guide so that others don't make the same mistakes we did. Additionally, this story will provide key tools to beginning your home journey in Pittsburgh.
+
+#### Conflict & Resolution Table
 
 | **Setup** | We bought a house as a way to invest and have a good place to live. |
 | ----- | ---------- |
 | **Conflict** | We didn't feel like informed home buyers at the time; we've learned lessons from renovations since. |
 | **Resolution** | Here are some tools to inform your home buying / renovation journey. |
 
-The project will be broken down into the following sections:
+#### Sections
+
 * Introduction
 * National Real Estate
 * National Renovations
