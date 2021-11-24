@@ -42,4 +42,9 @@ During this exercise, we were asked to find a publicly available visualization. 
 ## The Data Behind Home Renovations (Final Project)
 Check out my final project on how to buy and renovate a house in Pittsburgh!
 
-[A Guide to Home-Buying](final_project_TayMichell.md)
+This page gives an overview of the project structure (Part I): 
+[Overview of A Guide to Home-Buying](final_project_TayMichell.md)
+
+This part gives a sneak peak at what the final project website will look like (Part II):
+[Concept of Pittsburgh Home Buying, Simplified](final_project_wireframes.md)
+
