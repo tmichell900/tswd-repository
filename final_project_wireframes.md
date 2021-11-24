@@ -10,8 +10,21 @@
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https://preview.shorthand.com/jde91MqM55qjXZZW">  </iframe>
 </div>
 
-https://preview.shorthand.com/jde91MqM55qjXZZW
+Initial Improvements to Wireframes:
+* Clean up references and sources throughout project
+* Find more stock photos to replace the pictures of our house
 
 ## User Research
+
+To prepare for the user interviews, I developed a short list of questions that addressed three main goals:
+
+<img width="755" alt="UserStoryPicture" src="https://user-images.githubusercontent.com/79218366/143169202-33a98b4c-06f0-4067-8e81-a6c774ed6122.png">
+
+Each of the people I interviewed is familiar both with data visualization techniques as well as the topic (home buying), so I was able to tailor the goals to address my main concerns.
+
+The results of the interviews are shown below:
+<img width="950" alt="UserStoryPicture" src="https://user-images.githubusercontent.com/79218366/143170464-7119693c-a5fd-45a8-af35-1407af5a227a.png">
+
+
 
 ## Personas and Moodboards
