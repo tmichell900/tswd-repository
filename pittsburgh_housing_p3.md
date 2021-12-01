@@ -2,6 +2,13 @@
 
 ## Changes Since Part II
 
+* Improvements on Introduction. The comparison between the rental property and the property for sale was difficult at first to put directly into Shorthand. I knew that this comparison was a key part to the story, so I went back and forth on different ways to implement it in the presentation. Ultimately, I created side by side photos to be used as an "either / or" exercise during the presentation.
+* Use of Zipcode versus Neighborhood. To keep some consistency in the story, I revised much of the presentation to be focused on neighborhoods, rather than zip codes. Unless you live in a particular zip code, it's harder to conceptualize data about a number as opposed to a neighborhood name that you have likely heard before.
+* Color Standardization. Although I had the picture of our house as the main picture in Part II, I did some more exploring on Unsplash to find more professional looking photos to use throughout the presentation. I used this to make an updated storyboard as shown below:
+
+<img width="500" alt="Screen Shot 2021-12-01 at 6 33 33 PM" src="https://user-images.githubusercontent.com/79218366/144331295-8cbd13c3-9b6d-44db-95e3-94af765dd6de.png">
+
+* 
 
 ## Overall Lessons Learned
 
