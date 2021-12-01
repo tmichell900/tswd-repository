@@ -55,4 +55,5 @@ Finally, this gives a summary to the entire project!
 [Final Project Summary](pittsburgh_housing_p3.md)
 
 Want to just go straight to the project website? Click below!
+
 [Pittsburgh Home Buying -- Simplified](https://carnegiemellon.shorthandstories.com/pittsburgh-home-buying-simplified/index.html)
