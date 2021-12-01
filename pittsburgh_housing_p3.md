@@ -34,4 +34,3 @@
 [12] “9 Best Pennsylvania Mortgage Lenders of 2021.” NerdWallet. January 26, 2021. Web: https://www.nerdwallet.com/best/mortgages/lenders-in-pennsylvania
 
 [13] “2021 U.S. Houzz & Home Study: Renovation Trends.” Houzz. June 23, 2021. Web: https://www.houzz.com/magazine/2021-u-s-houzz-and-home-study-renovation-trends-stsetivw-vs~150941566
-![image](https://user-images.githubusercontent.com/79218366/144290361-d4ee39b4-e2b5-4e69-b09b-4a690b5095e0.png)
