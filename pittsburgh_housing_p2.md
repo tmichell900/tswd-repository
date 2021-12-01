@@ -50,3 +50,9 @@ This colorscheme is recycled from Part I, and was created using Canva. Each of t
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEvwJ8dRAk&#x2F;view?utm_content=DAEvwJ8dRAk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">#b5bb69</a> by Taylor Michell
 created using [Canva](https://www.canva.com/design/DAEvwJ8dRAk/GXKtJqydCdg7VmSNffjCSg/edit)
+
+Click here to view the last part of the project!
+[Pittsburgh Housing Project - Part 3](pittsburgh_housing_p3.md)
+
+Click here to return to the main page:
+[Main Page](README.md)
