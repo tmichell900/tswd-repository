@@ -13,18 +13,9 @@ As a partner/wife to a Master of Computational Data Science, my goal is to devel
 
 As a homeowner, my goal is to finish renovating my kitchen by Christmas.
 
-<img align="right" width="300" alt="KitchenPicture" src="https://user-images.githubusercontent.com/79218366/144286710-c46a454a-e264-4ef5-bef2-2de318156874.jpg">
-
 As a surfer, my goal is to find the best waves, even in a land-locked state.
 
-<img align="right" width="500" alt="LakeErie" src="https://user-images.githubusercontent.com/79218366/144287009-366eee79-efca-423a-963c-6bcd3fecff05.jpg">
-
-
-
-
-
-
-
+<img align="center" width="600" alt="collage" src="https://user-images.githubusercontent.com/79218366/144288380-faf014bb-03be-4efd-bb76-a6ed27cf0ea9.png">
 
 
 ## What I hope to learn 
