@@ -8,7 +8,8 @@
 
 <img width="500" alt="Screen Shot 2021-12-01 at 6 33 33 PM" src="https://user-images.githubusercontent.com/79218366/144331295-8cbd13c3-9b6d-44db-95e3-94af765dd6de.png">
 
-* 
+* Addition of a Navigation Bar. One of the key realizations during user interviews is that some people (depending on their position in their home-buying journey) find different questions or visualizations throughout the story more appealing. By using a navigation bar at the top, it allows visitors to the website to more quickly navigate to the portion of the story that applies the most to them.
+* Call To Action. Finally, I did some more research on the resources people may find interesting at different stages in home buying / renovating. I created a BuzzFeed quiz that allows people to see "which neighbrohood they most identify with" based on some fo the research I did for the presentation (you can take the quiz directly by clicking [here](https://www.buzzfeed.com/aggiethedog2020/pittsburgh-neighborhood-personality-quiz-1129202-dcslqnv19x). There is mortgage, realtor, and financial resources for potential home buyers. Finally, there is a link to the Houzz renovation report for 2021 that served as the inspiration for a good portion of the project.
 
 ## Overall Lessons Learned
 
@@ -41,3 +42,6 @@
 [12] “9 Best Pennsylvania Mortgage Lenders of 2021.” NerdWallet. January 26, 2021. Web: https://www.nerdwallet.com/best/mortgages/lenders-in-pennsylvania
 
 [13] “2021 U.S. Houzz & Home Study: Renovation Trends.” Houzz. June 23, 2021. Web: https://www.houzz.com/magazine/2021-u-s-houzz-and-home-study-renovation-trends-stsetivw-vs~150941566
+
+
+Click [here](README.md) to return to the main page.
