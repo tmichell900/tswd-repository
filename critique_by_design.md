@@ -114,3 +114,6 @@ Additionally, I think these visualizations only scratch the surface at communica
 (6) McClister, James. "Improvement Spending by State." *ProRemodeler.* July 2, 2019. 
 
 (7) "City of Pittsburgh Permit Summary." *Western Pennsylvania Regional Data Center.* Sepetember 2021.
+
+
+Click [here](README.md) to return to the main page.
