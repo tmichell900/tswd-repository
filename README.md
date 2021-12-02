@@ -24,13 +24,7 @@ In my current course, Telling Stories with Data, I hope to learn how to be a goo
 
 # Portfolio
 
-Here's a test visualization:
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642585"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-Here's a test link to a new page:
-[Link to page 2](page2.md)
-
-Here's a class exercise I did on visualizing government debt:
+Here's one of our first class exercises on visualizing government debt:
 [Link to government debt](government_debt.md)
 
 ## Critique by Design:
@@ -40,7 +34,11 @@ During this exercise, we were asked to find a publicly available visualization. 
 [Link to Critique by Design](critique_by_design.md)
 
 
-## Choosing Chart Types - Coming Soon!
+## Choosing Chart Types:
+
+This was a class exercise in which we were given user stories from a group of customers and asked to create custom visualizations for each of their use cases.
+
+[Choosing Chart Types](choosing_chart_types.md)
 
 ## The Data Behind Home Renovations (Final Project)
 Check out my final project on how to buy and renovate a house in Pittsburgh!
