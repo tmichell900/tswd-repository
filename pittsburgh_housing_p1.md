@@ -141,5 +141,4 @@ Click on the link below to go to the next part of the project!
 
 [Part 2 of the Project](pittsburgh_housing_p2.md)
 
-Click here to return to the main page:
-[Main Page](readme.md)
+Click [here](README.md) to return to the main page.
