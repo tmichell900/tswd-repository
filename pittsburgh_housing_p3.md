@@ -13,7 +13,19 @@
 
 ## Overall Lessons Learned
 
+Overall, I learned a lot from this "telling stories with data" project, but the most critical piece of information I found was the power of user stories and user interviews. The most difficult part of the project early on was identifying the specific audience that I wanted to target with the story. Once I identified the specific audience as "potential home buyers in Pittsburgh," it became much easier to focus my research efforts and create the flow of the story.
+
+When it came to user interviews, I tried to identify people at different stages of life and with varying levels of experience with data visualizations. Each person I interviewed was able to provide a unique perspective that helped me to edit the visualizations and the story at each step in the process. It cemented the lesson for me that in the future when building anything (application, research study, etc), testing on a smaller population before investing time and effort into scaling the product is a huge time-saving and critical product improving step that can't be skipped.
+
 ## Final Data Story
+
+To access the final data story directly, click [here](https://carnegiemellon.shorthandstories.com/pittsburgh-home-buying-simplified/index.html).
+
+Otherwise, you can view the embedding presentation below:
+
+<div>
+  <script src="https://carnegiemellon.shorthandstories.com/pittsburgh-home-buying-simplified/embed.js"></script>
+</div>
 
 ## References
 
