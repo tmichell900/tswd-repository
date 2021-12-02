@@ -54,5 +54,4 @@ created using [Canva](https://www.canva.com/design/DAEvwJ8dRAk/GXKtJqydCdg7VmSNf
 Click here to view the last part of the project!
 [Pittsburgh Housing Project - Part 3](pittsburgh_housing_p3.md)
 
-Click here to return to the main page:
-[Main Page](README.md)
+Click [here](README.md) to return to the main page.
